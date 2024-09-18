@@ -63,9 +63,9 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilla&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
