@@ -1,17 +1,70 @@
-## Hi there 👋
+My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -->. I am an undergraduate student at National Technological University of Lima South.
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Guiilla&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Guiilla&show_icons=true">
+</picture>
+
+-   ✏️ Java / Mysql / Vue
+-   🌱 I started my job as a programmer at Overskull
+-   💭 If you need help, you can message me or join my  [Discord community](https://discord.gg/YY7KEEWHGU)!
+-   🔍 [CVEs discovered by me](CVE.md)
+-   ⭐ I have a few projects in Java, but I will keep improving
+-   🔑 My steam ID [`116357581`](https://s.team/p/jvw-knrt/NKTPDTDT)
+
+---
+
+### 📝 [Latest Videos](https://www.youtube.com/@dawada3194)
+
+<!--START_SECTION:blog-posts-->
+
+-   2021-09-12 [Editing a video of me playing with my friends](https://www.youtube.com/watch?v=iiGz8pE7a5M&ab_channel=Dawada)
+-   2022-07-16 [My friend's dad catches him playing](https://www.youtube.com/watch?v=tVQqMZGOo0M&ab_channel=Dawada)
+-   2022-12-03 [My first video with over 11,000 views](https://www.youtube.com/watch?v=8b23Ws_GfY0&t=57s&ab_channel=Dawada)
+<!--END_SECTION:blog-posts-->
+
+---
+
+### ✨ [My followers](src/getTopFollowers.py)
+
+![](https://raw.githubusercontent.com/guiilla/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/guiilla/github-stats-transparent/output/generated/languages.svg)
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/DawadaBasti">
+        <img src="https://avatars.githubusercontent.com/u/74413612?v=4" width="100px;" alt="wizardforcel"/>
+      </a>
+      <br />
+      <a href="https://github.com/wizardforcel">DawadaBasti</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gaocegege">
+        <img src="https://avatars.githubusercontent.com/u/74477799?v=4" width="100px;" alt="gaocegege"/>
+      </a>
+      <br />
+      <a href="https://github.com/gaocegege">Juancho</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EndlessCheng">
+        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/EndlessCheng">Labl</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+---
+
+
+### 📊 [Coding time in the last month](https://github.com/muety/wakapi)
 
 
 
-<div id="header" align="center">
-  <img src="thumb-1920-1357984.png" alt="Banner Academia Futuri" width=1000"/>
-
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]((https://www.youtube.com/@dawada3194))
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YY7KEEWHGU)
-
-Soy un apasionado del aprendizaje, especialmente en el mundo de la programación. Actualmente, me estoy adentrando en el desarrollo de aplicaciones utilizando Java y MySQL. Dirijo una comunidad en Discord donde todos los entusiastas de la programación pueden unirse, hacer amigos y aprender juntos. En el futuro, me gustaría impartir clases de programación y compartir mis conocimientos con otros. ¡Siempre hay espacio para nuevos aprendices y experiencias compartidas!
-
-## TECNOLOGIAS
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
