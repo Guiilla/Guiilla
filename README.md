@@ -12,16 +12,6 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 -   ⭐ I have a few projects in Java, but I will keep improving
 -   🔑 My steam ID [`116357581`](https://s.team/p/jvw-knrt/NKTPDTDT)
 
----
-
-### 📝 [Latest Videos](https://www.youtube.com/@dawada3194)
-
-<!--START_SECTION:blog-posts-->
-
--   2021-09-12 [Editing a video of me playing with my friends](https://www.youtube.com/watch?v=iiGz8pE7a5M&ab_channel=Dawada)
--   2022-07-16 [My friend's dad catches him playing](https://www.youtube.com/watch?v=tVQqMZGOo0M&ab_channel=Dawada)
--   2022-12-03 [My first video with over 11,000 views](https://www.youtube.com/watch?v=8b23Ws_GfY0&t=57s&ab_channel=Dawada)
-<!--END_SECTION:blog-posts-->
 
 ---
 
@@ -77,6 +67,17 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+
+---
+
+### 📝 [Latest Videos](https://www.youtube.com/@dawada3194)
+
+<!--START_SECTION:blog-posts-->
+
+-   2021-09-12 [Editing a video of me playing with my friends](https://www.youtube.com/watch?v=iiGz8pE7a5M&ab_channel=Dawada)
+-   2022-07-16 [My friend's dad catches him playing](https://www.youtube.com/watch?v=tVQqMZGOo0M&ab_channel=Dawada)
+-   2022-12-03 [My first video with over 11,000 views](https://www.youtube.com/watch?v=8b23Ws_GfY0&t=57s&ab_channel=Dawada)
+<!--END_SECTION:blog-posts-->
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Bienvenidos a los Enfrentamientos de Left4dead 2](https://ytcards.demolab.com/?id=JYqc_fSPjEQ&title=Bienvenidos+a+los+Enfrentamientos+de+Left4dead+2&lang=en&timestamp=1719176571&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bienvenidos a los Enfrentamientos de Left4dead 2")](https://www.youtube.com/watch?v=JYqc_fSPjEQ)
