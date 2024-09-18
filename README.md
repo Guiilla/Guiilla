@@ -61,16 +61,12 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 ![](https://raw.githubusercontent.com/Guiilla/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Guiilla/github-stats-transparent/output/generated/languages.svg)
 
-### 📊 [Coding time in the last month](https://github.com/muety/wakapi)
 
 
 
 
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=compact)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=donut)
 
 
 ---
