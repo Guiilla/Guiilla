@@ -2,7 +2,7 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Guiilla&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Guiilla&show_icons=true">
+    <img align="right" width="50%" src="[https://github-readme-stats-ouuan.vercel.app/api?username=Guiilla&show_icons=true](https://github-readme-stats.vercel.app/api?username=Guiilla&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)">
 </picture>
 
 -   ✏️ Java / Mysql / Vue
@@ -50,6 +50,16 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 
 ---
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+      </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
+
+
+
+![](https://raw.githubusercontent.com/Guiilla/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Guiilla/github-stats-transparent/output/generated/languages.svg)
 
 ### 📊 [Coding time in the last month](https://github.com/muety/wakapi)
 
