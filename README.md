@@ -66,11 +66,6 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 
 
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guiilla&layout=compact)
