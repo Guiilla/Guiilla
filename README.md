@@ -17,8 +17,8 @@ My name is S**ebastian** I**n**g**a**<!-- the bold part is the origin of my ID -
 
 ### ✨ [My followers](src/getTopFollowers.py)
 
-![](https://raw.githubusercontent.com/guiilla/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/guiilla/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Guiilla/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Guiilla/github-stats-transparent/output/generated/languages.svg)
 
 <!--START_SECTION:top-followers-->
 <table>
